@@ -5,4 +5,6 @@ import ai.xkool.sc.EventBus;
 public abstract class GameCommandExecutor {
 
     EventBus eventBus;
+
+
 }

@@ -1,4 +1,4 @@
-package ai.xkool.sc;
+package ai.xkool.sc.core.player;
 
 /**
  * Color for a player

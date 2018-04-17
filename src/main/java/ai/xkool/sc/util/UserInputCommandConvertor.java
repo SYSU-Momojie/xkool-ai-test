@@ -1,6 +1,6 @@
 package ai.xkool.sc.util;
 
-import ai.xkool.sc.GameEntity;
+import ai.xkool.sc.core.entity.GameEntity;
 import ai.xkool.sc.command.GameCommand;
 import ai.xkool.sc.input.UserInput;
 

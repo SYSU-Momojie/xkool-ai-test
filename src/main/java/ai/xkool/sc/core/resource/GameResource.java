@@ -1,4 +1,4 @@
-package ai.xkool.sc.resource;
+package ai.xkool.sc.core.resource;
 
 public enum GameResource {
 

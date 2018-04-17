@@ -1,4 +1,6 @@
-package ai.xkool.sc;
+package ai.xkool.sc.core.player;
+
+import ai.xkool.sc.core.entity.GameEntity;
 
 import java.util.List;
 
